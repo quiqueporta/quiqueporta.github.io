@@ -4,7 +4,7 @@ title: Cosas aprendidas cada dia o no :)
 email: contact.13p0l@simplelogin.com
 description: >- # this means to ignore newlines until "baseurl:"
   Diario de cosas que he aprendido cada dia.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.quiqueporta.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "images/logo.png"
 twitter_username: quiqueportac
