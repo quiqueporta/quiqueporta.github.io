@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Pagina web de Quique Porta.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.quiqueporta.com" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "images/quique.png"
+logo: "images/logo.png"
 twitter_username: quiqueportac
 github_username:  quiqueporta
 locale: "en-us"
@@ -20,7 +20,7 @@ disqus:
 # Build settings
 # theme: minima
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-skin: "/assets/css/skins/dark.css"
+skin: "/assets/css/skins/default.css"
 
 
 footer_links:
@@ -34,8 +34,15 @@ footer_links:
     url: feed.xml
     icon: fas fa-rss-square
 
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,4 +1,4 @@
 ---
 layout: home
-entries_layout: list
+entries_layout: grid
 ---
