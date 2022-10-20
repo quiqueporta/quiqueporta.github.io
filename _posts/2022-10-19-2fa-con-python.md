@@ -1,18 +1,20 @@
 ---
 layout: post
 title:  2FA con Python
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Electronic_Frontier_Foundation_video_conferencing_background_01.png/512px-Electronic_Frontier_Foundation_video_conferencing_background_01.png
+  thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Electronic_Frontier_Foundation_video_conferencing_background_01.png/512px-Electronic_Frontier_Foundation_video_conferencing_background_01.png
+  caption: "Electronic Frontier Foundation, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
 date: 2022-10-19 19:00:00 +0200
 author: Quique Porta
 comments: true
 share: true
 categories:
-    - Programación
+    - Programacion
 tags:
     - python
-    - programación
+    - programacion
 ---
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Electronic_Frontier_Foundation_video_conferencing_background_01.png/512px-Electronic_Frontier_Foundation_video_conferencing_background_01.png)
 
 Esta semana en [Agroptima](https://www.agroptima.com) hemos tenido que implementar 2FA (two-factor authentication) para algunos usuarios. La verdad es que no ha sido muy complicado integrarlo en nuestra página web.
 

@@ -1,6 +1,10 @@
 ---
 layout: post
 title:  Utopia Engine - Juego de mesa
+image:
+  path: https://cf.geekdo-images.com/Tq4EFpaDShyjYQO_ONnhMA__imagepage/img/22ZcYz_exsMOLynpvbcRGi8ATLM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1783145.jpg
+  thumbnail: https://cf.geekdo-images.com/Tq4EFpaDShyjYQO_ONnhMA__imagepage/img/22ZcYz_exsMOLynpvbcRGi8ATLM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1783145.jpg
+  caption: "Image from https://boardgamegeek.com/"
 date: 2022-10-17 20:00:00 +0200
 author: Quique Porta
 comments: true
@@ -12,8 +16,6 @@ tags:
     - juego de mesa
     - print & play
 ---
-
-![](https://cf.geekdo-images.com/Tq4EFpaDShyjYQO_ONnhMA__imagepage/img/22ZcYz_exsMOLynpvbcRGi8ATLM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1783145.jpg)
 
 No hace mucho descubrí un nuevo juego *print & play*, para un solo jugador, que no necesita de mucho despliegue para poder jugarlo.
 
