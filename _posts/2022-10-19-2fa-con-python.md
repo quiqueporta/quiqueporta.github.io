@@ -90,5 +90,3 @@ else:
 {% endhighlight %}
 
 **Importante**: Recuerda guardar los secretos de los usuarios encriptados de alguna manera para que no sean facilmente accesibles por gente no deseada.
-
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
