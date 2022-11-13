@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  Incrementar y decrementar números con Vim
-# image:
-#   path: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png
-#   thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/240px-Vimlogo.svg.png
-#   caption: "User:D0ktorz, GPL <http://www.gnu.org/licenses/gpl.html>, via Wikimedia Commons"
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png
+  thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/240px-Vimlogo.svg.png
+  caption: "User:D0ktorz, GPL <http://www.gnu.org/licenses/gpl.html>, via Wikimedia Commons"
 date: 2022-11-13 10:00:00 +0100
 author: Quique Porta
 comments: true
