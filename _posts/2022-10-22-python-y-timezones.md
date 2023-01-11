@@ -212,7 +212,7 @@ from datetime import (
 date_string = '2022-10-22T18:40:04.247201+02:00'  # Europe/Madrid
 
 datetime.fromisoformat(date_string).astimezone(timezone.utc)
->>> datetime.datetime(2022, 10, 22, 18, 40, 4, 247201, tzinfo=datetime.timezone.utc) ✅
+>>> datetime.datetime(2022, 10, 22, 16, 40, 4, 247201, tzinfo=datetime.timezone.utc) ✅
 {% endraw %}
 {% endhighlight %}
 
