@@ -4,9 +4,47 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-JyOo6T4F4jKhNk1nli9C7WzGqd/QR95nY/70vbdnfdiWdTkAn5u5NRVl5vZuX7AXze5Q2u2dd3GqfLfA5A5BCw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+		body {
+			background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/5e/Stars_01_%28MK%29.jpg");
+			background-size: cover;
+			background-position: center;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+			height: 100vh;
+			margin: 0;
+		}
+		.hero-text {
+			color: white;
+			font-size: 5em;
+			text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+		}
+		.social-icons {
+			display: flex;
+			flex-direction: row;
+			justify-content: center;
+			margin-top: 2em;
+		}
+		.social-icons a {
+			color: white;
+			font-size: 2em;
+			margin: 0 1em;
+			transition: transform 0.3s ease-in-out;
+		}
+		.social-icons a:hover {
+			transform: scale(1.2);
+		}
+    </style>
     <title>Quique Porta</title>
 </head>
 <body>
-
+	<div class="hero-text">Quique Porta</div>
+	<div class="social-icons">
+		<a href="https://twitter.com/quiqueportac"><i class="fab fa-twitter"></i></a>
+		<a href="https://github.com/quiqueporta"><i class="fab fa-github"></i></a>
+	</div>
 </body>
 </html>
